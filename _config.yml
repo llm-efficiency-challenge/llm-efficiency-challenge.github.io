@@ -1,0 +1,29 @@
+theme: jekyll-theme-cayman
+
+title: "NeurIPS Large Language Model Efficiency Challenge:<br/>1 LLM + 1GPU + 1Day"
+
+description: NeurIPS 2023 Challenge
+
+timezone: America/New_York
+
+navigation:
+  Home: "index"
+  Challenge: "challenge"
+  Rules: "rules"
+  Organizers: "organizers"
+  Advisors: "advisors"
+  # Schedule: "schedule"
+  Invited Speakers: "speakers"
+  # FAQ: "faq"
+  Submit Questions: "question"
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-spaceship
+
+exclude: ["README.md", "Gemfile", "Gemfile.lock"]
