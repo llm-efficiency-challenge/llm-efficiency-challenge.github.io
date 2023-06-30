@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Large Language Model Efficiency Challenge:<br>1 LLM + 1GPU + 1Day
-
 ## Submission
 
 <p style='text-align: justify;'>A starting-kit can be found here: 

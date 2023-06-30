@@ -14,7 +14,7 @@ layout: default
 
 <br />
 
-|<img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/276016023_337274635089806_8186185571950628705_n.jpg" alt="Christian Puhrsch" width="240"/>|<img src="http://kaleabalemayehu.com/src/img/a.jpeg" alt="Kaleab A. Kinfu" width="220"/>|<img src="https://artidoro.github.io/images/Artidoro_Pagnoni.jpg" alt="Artidoro Pagnoni" width="220"/>|
+|<img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.8562-6/276016023_337274635089806_8186185571950628705_n.jpg" alt="Christian Puhrsch" width="240"/>|<img src="https://artidoro.github.io/images/Artidoro_Pagnoni.jpg" alt="Artidoro Pagnoni" width="220"/>|
 |[Christian Puhrsch](https://research.facebook.com/people/puhrsch-christian/)<br />Meta|[Artidoro Pagnoni](https://artidoro.github.io/)<br />University of Washington|
 
 <br />

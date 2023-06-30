@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Large Language Model Efficiency Challenge:<br>1 LLM + 1GPU + 1Day
-
 ## Important Dates
 
 <table class="foo">
