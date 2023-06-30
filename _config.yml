@@ -10,12 +10,17 @@ navigation:
   Home: "index"
   Challenge: "challenge"
   Rules: "rules"
+  Timeline: "dates"
+  Prizes: "prizes"
+  Submission: "submission"
+  Leaderboard: "leaderboard"
   Organizers: "organizers"
   Advisors: "advisors"
   # Schedule: "schedule"
-  Invited Speakers: "speakers"
+  # Invited Speakers: "speakers"
   # FAQ: "faq"
-  Submit Questions: "question"
+  Sponsors: "sponsors"
+  Contact us: "question"
 markdown: kramdown
 
 kramdown:

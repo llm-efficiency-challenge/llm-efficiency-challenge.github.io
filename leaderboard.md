@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Invited Speakers
+# Leaderboard
 
 TBA

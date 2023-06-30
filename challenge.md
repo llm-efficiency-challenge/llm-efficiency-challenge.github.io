@@ -4,70 +4,52 @@ layout: default
 
 # Large Language Model Efficiency Challenge:<br>1 LLM + 1GPU + 1Day
 
-<p>Here we present a LLM efficiency challenge, to tackle some of the main challenges in LLMs and democratize access to state of the art LLMs. Specifically, we introduce a challenge for the community to adapt a foundation model to specific tasks by fine-tuning on a single GPU within  a 24-hour (1-day) time frame, while maintaining high accuracy for these desired tasks.</p>
-
-<p>Beyond providing a suite of evaluation tasks, we will perform extensive analysis on each submission to study accuracy and computational performance tradeoffs at commodity hardware scales.</p>
-
-## Important Dates
-
-<table class="foo">
-    <tr>
-        <td width="50%"><b>Challenge Start</b></td>
-        <td width="50%">May 31st, 2023</td>
-    </tr>
-    <tr>
-        <td width="50%"><b>Submission Open</b></td>
-        <td width="50%">June 30th, 2023</td>
-    </tr>
-    <tr>
-        <td width="50%"><b>Submission Deadline</b></td>
-        <td width="50%">September 30th, 2023</td>
-    </tr>
-    <tr>
-        <td width="50%"><b>Winners Notification</b></td>
-        <td width="50%">November 10th, 2023</td>
-    </tr>
-    <tr>
-        <td width="50%"><b>Top Team Presentation</b></td>
-        <td width="50%">December 15th, 2023</td>
-    </tr>
-</table>
-
-## Tracks
 <p style='text-align: justify;'>
-We have chosen two competition tracks represented by these two distinct GPUs: the NVIDIA 4090 and A100. This competition will ask the participants to take an open source base-model or to create their own, that can fit and be fine-tuned in one of two single GPU for up to 24 hours:
-1. NVIDIA 4090 with 24GB GPU memory and cost $2,000 is a popular graphics card for gaming, but has become widely used in the ML community because of its high compute capabilities and ability to fit moderately size models.
-2. NVIDIA A100 with 80GB GPU memory and cost $15,000 is the most popular hardware used in deep learning. Most LLMs are trained using a cluster of A100, however, in this case, the model is only allowed to run on 1 single A100s.</p>
 
-<p style='text-align: justify;'>The 4090 track corresponds to situations where some fine-tuning, online learning, and adaptation can take place locally after a model is trained, further adapting the usefulness of these models, and allowing them to grow with use cases.</p>
+To participate in this competition, you must start with a base model from our approved list, utilize only open-source data, and limit your fine-tuning to a single 24-hour period. This fine-tuning should be carried out on just one graphics card, which must be either the **NVIDIA 4090** or the **NVIDIA A100**.
+Our competition will feature two hardware tracks: the **NVIDIA 4090 track**  and  the **NVIDIA A100 track**, and each track will be evaluated separately.
 
-<p style='text-align: justify;'>The A100 track corresponds to situations where more
-sophisticated training can occur, as well as hosting LLM-based services to support multiple users in web-service based applications. </p>
+</p>
 
-<p style='text-align: justify;'>Participants are encouraged to submit their models to any of the hardware categories. Each entry will be assessed individually, with comparisons made to other models within the same category.</p>
+## Approved Base models:
 
-## Metrics
+The starting model for the competition should be an open [MIT](https://spdx.org/licenses/MIT.html) or [Apache 2](https://www.apache.org/licenses/LICENSE-2.0)) base model without instruction-tuning. All sizes of the common autoregressive and autoencoder base models listed below are allowed. If you plan to use an open-source base model family not listed here, please reach out to us and we will consider adding it to the list. Please respect the honor system in place for this competition, and acquire your base model through legitimate channels only. (i.e. No torrent-ed LLaMA weights). Any submissions that use base models obtained through illicit means will be disqualified.
 
-<p style='text-align: justify;'>For every model submitted in each hardware category, we will run  5 scenarios (accuracy,  robustness, fairness, bias and  efficiency) from [HELM](https://github.com/stanford-crfm/helm). Each scenario results in a score on [0, 1] and the final evaluation score will be based on a geometric mean across scenarios.</p>
+**Falcon,
+LLaMA,
+OpenLLaMA,
+Red Pajama Base (not instruction tuned models),
+MPT,
+OPT,
+Bloom,
+GPT Neo, J, NeoX, Pythia,
+GPT2,
+T5 (not Flan-T5),
+BART,
+DeBERTa,
+RoBERTa,
+BERT,
+ALBERT,
+DistilBERT,
+Electra**
 
-## Submission
+## Datasets:
 
-<p style='text-align: justify;'>A starting-kit can be found here: 
-[https://github.com/msaroufim/singlegpu/](https://github.com/msaroufim/singlegpu/blob/main/README.md)</p>
+You are welcome to use any open sourced dataset. For example:
 
-<p style='text-align: justify;'>This github page contains code to download a pre-trained model and submit a fine-tuned model as PyTorch weights and interface with our evaluation system. We will soon publish a detailed  tutorial on how to take a base model, fine-tune on a single GPU and run the evaluations.</p>
+Databricks-Dolly-15: https://huggingface.co/datasets/databricks/databricks-dolly-15k
 
-## Incentives
+OpenAssistant Conversations Dataset (OASST1): https://huggingface.co/datasets/OpenAssistant/oasst1
 
-<p style='text-align: justify;'>
- For each of the two hardware categories, we will select winning groups for the top three positions: 1st place, 2nd place, and 3rd place.</p>
+Alpaca Libre: https://github.com/mobarski/alpaca-libre
 
-- The first place winning group will receive a \$5,000 cash prize,
-- The second  place group will receive \$2,500, and
-- The third place group will receive \$1,000.
+*Under no circumstances should you use data that infringes upon data usage agreements, copyright laws, or privacy policies. This means you should not use datasets that utilize generated content, whether in the form of instructions/prompts or results/answers from another LLM. If you opt to create your own dataset, it must be open-sourced and readily accessible to the general public at the time of submission.*
 
-<p style='text-align: justify;'>Additionally, we will present two student awards per hardware category, granted to the highest-ranking groups outside the top 3 positions and composed entirely of matriculating students in a university or graduate program. Each student award recipient group will receive \$500. Winners will be announced on the competition website as well as during the in-person workshop at NeurIPS.</p>
+## Evaluation:
 
-<p style='text-align: justify;'>The two first place winning teams will be invited to give a 30-minute presentation each during the in-person workshop at NeurIPS, and all members of those teams will be offered a chance to co-author the report-out paper on this competition.</p>
+The evaluation process in our competition will be conducted in two stages. In the first stage, we will run a subset of HELM benchmark along with a set of secret holdout tasks. The holdout tasks will consist of logic reasoning type of multiple-choice Q&A scenarios as well as conversational chat tasks. Submissions will be ranked based on their performance across all tasks. The ranking will be determined by the geometric mean across all evaluation tasks. This score will be shown in the leaderboard 
 
-## FAQ
+$$score = \Pi(mean\_win\_rate(tasks))$$
+
+After the competition is closed on September 30th 2023, we will contact the top 3 teams with the highest scoring models in each hardware category, requesting that they submit all necessary code and data to reproduce their model, starting from their chosen open-source base model. We will then replicate their entire process, to ensure it is repeatable and same results can be achieved with 24 hours using a single GPU. If the top-scoring model cannot be reproduced under these imposed conditions, we will move on to consider the next highest-scoring model in the hardware category, we will continue this process until a reproducible and high-performing model is selected, or we exhaust all potential options and declare no winners for the category.
+
