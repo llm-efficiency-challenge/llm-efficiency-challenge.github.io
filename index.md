@@ -8,7 +8,7 @@ Large Language Models (LLMs) trained on large corpora of texts have attracted si
 <br>
 Our goal is to democratize access to language models and address three major issues:
 
-1. Lack of transparency around model training methods leads to a majority of models being not reproducible. Preprint. Under review. 
+1. Lack of transparency around model training methods leads to a majority of models being not reproducible. 
 2. The absence of a standard benchmark to evaluate these models side-by-side. 
 3. Insufficient access to dedicated hardware prevents widespread availability and usage of these models. 
 
