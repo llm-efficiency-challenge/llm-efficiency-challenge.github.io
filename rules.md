@@ -11,6 +11,7 @@ The rules of this competition aim to ensure fair evaluation and reproducible res
 * <p style='text-align: justify;'>Submissions must NOT use any copyrighted or proprietary data, code, or closed-source content. The use of data or content that breaks service contracts or trade secrets of any entity is not allowed.
 * <p style='text-align: justify;'>Teams are encouraged to use any open-source code and libraries, provided they give proper attribution.
 * <p style='text-align: justify;'>Submissions must take less than 24 hours to fine-tune on a single Nvidia A100 or Nvidia 4090 graphics card.
+* <p style='text-align: justify;'>For prize eligibility, submissions must meet or exceed a minimum score specified in the metrics section of the challenge.
 * <p style='text-align: justify;'>A team can have no more than five members. Teams must self-certify that no individual in the team is participating in other teams for this competition.
 * <p style='text-align: justify;'>Teams can submit to either or both Nvidia A100 and Nvidia 4090 hardware tracks.
 * <p style='text-align: justify;'>Each team can make three submissions to each track during the competition. The best-performing model will be used to rank the team on the leaderboard and selected for final model evaluation.

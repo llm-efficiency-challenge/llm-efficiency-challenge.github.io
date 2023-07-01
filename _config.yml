@@ -12,7 +12,7 @@ navigation:
   Rules: "rules"
   Timeline: "dates"
   Prizes: "prizes"
-  Submission: "submission"
+  Starter Kit: "starter_kit"
   Leaderboard: "leaderboard"
   Organizers: "organizers"
   Advisors: "advisors"
@@ -20,12 +20,13 @@ navigation:
   # Invited Speakers: "speakers"
   # FAQ: "faq"
   Sponsors: "sponsors"
-  Contact us: "question"
+  Contact Us: "question"
 markdown: kramdown
 
 kramdown:
   parse_span_html: true
   parse_block_html: true
+  math_engine: katex
 
 plugins:
   - jekyll-seo-tag
