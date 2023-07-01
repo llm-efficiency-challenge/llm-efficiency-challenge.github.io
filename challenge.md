@@ -65,7 +65,7 @@ The evaluation process in our competition will be conducted in two stages. In th
 
 $$\text{score} = \Pi ( \text{mean-win-rate(\text{task})} )$$
 
-<br>
+<br><br>
 
 After the competition is closed on September 30th 2023, we will contact the top 3 teams with the highest scoring models in each hardware category, requesting that they submit all necessary code and data to reproduce their model, starting from their chosen open-source base model. We will then replicate their entire process, to ensure it is repeatable and same results can be achieved with 24 hours using a single GPU. If the top-scoring model cannot be reproduced under these imposed conditions, we will move on to consider the next highest-scoring model in the hardware category, we will continue this process until a reproducible and high-performing model is selected, or we exhaust all potential options and declare no winners for the category.
 
