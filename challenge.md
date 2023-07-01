@@ -17,45 +17,46 @@ Our competition will feature two hardware tracks: the **NVIDIA 4090 track**  and
 The starting model for the competition should be an open [MIT](https://spdx.org/licenses/MIT.html) or [Apache 2](https://www.apache.org/licenses/LICENSE-2.0)) base model without instruction-tuning. All sizes of the common autoregressive and autoencoder base models listed below are allowed. If you plan to use an open-source base model family not listed here, please reach out to us and we will consider adding it to the list. Please respect the honor system in place for this competition, and acquire your base model through legitimate channels only. (i.e. No torrent-ed LLaMA weights). Any submissions that use base models obtained through illicit means will be disqualified. 
 
 </p>
-<ol>
-<li>Falcon
-<li>LLaMA
-<li>OpenLLaMA
-<li>Red Pajama Base (not instruction tuned models)
-<li>MPT
-<li>OPT
-<li>Bloom
-<li>GPT Neo, J, NeoX, Pythia
-<li>GPT2
-<li>T5 (not Flan-T5)
-<li>BART
-<li>DeBERTa
-<li>RoBERTa
-<li>BERT
-<li>ALBERT
-<li>DistilBERT
-<li>Electra
-</ol>
+
+* Falcon
+* LLaMA
+* OpenLLaMA
+* Red Pajama Base (not instruction tuned models)
+* MPT
+* OPT
+* Bloom
+* GPT Neo, J, NeoX, Pythia
+* GPT2
+* T5 (not Flan-T5)
+* BART
+* DeBERTa
+* RoBERTa
+* BERT
+* ALBERT
+* DistilBERT
+* Electra
+
 
 <br>
 
 ## Datasets:
+
 <p style='text-align: justify;'>
 You are welcome to use any open sourced dataset. For example:
 </p>
-<ol>
-<li>[https://huggingface.co/datasets/databricks/databricks-dolly-15k](Databricks-Dolly-15)
-<li>[https://huggingface.co/datasets/OpenAssistant/oasst1](>OpenAssistant Conversations Dataset)
-<li>[https://github.com/mobarski/alpaca-libre](Alpaca Libre)
-</ol>
+
+* [Databricks-Dolly-15](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
+* [OpenAssistant Conversations Dataset oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1)
+* [Alpaca Libre](https://github.com/mobarski/alpaca-libre)
+
 <br>
+
 <p style='text-align: justify;'>
-
 Under no circumstances should you use data that infringes upon data usage agreements, copyright laws, or privacy policies. This means you should not use datasets that utilize generated content, whether in the form of instructions/prompts or results/answers from another LLM. If you opt to create your own dataset, it must be open-sourced and readily accessible to the general public at the time of submission.
-
 </p>
 
 <br>
+
 ## Evaluation:
 
 <p style='text-align: justify;'>
