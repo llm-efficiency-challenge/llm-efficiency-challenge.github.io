@@ -4,4 +4,4 @@ layout: default
 
 # Sponsors
 
-TBA
+Coming soon!

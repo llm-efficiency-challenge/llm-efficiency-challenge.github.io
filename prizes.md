@@ -3,7 +3,6 @@ layout: default
 ---
 
 
-## Incentives
 
 <p style='text-align: justify;'>
  For each of the two hardware categories, we will select winning groups for the top three positions: 1st place, 2nd place, and 3rd place.</p>
