@@ -17,7 +17,7 @@ The starting model for the competition should be an open [MIT](https://spdx.org/
 </p>
 
 * Falcon
-* LLaMA
+* LLaMA (as long as you're not using pirated weights)
 * OpenLLaMA
 * Red Pajama Base (not instruction tuned models)
 * MPT
