@@ -12,7 +12,7 @@ Our competition will feature two hardware tracks: the **NVIDIA 4090 track**  and
 ## Approved Base models:
 
 <p style='text-align: justify;'>
-The starting model for the competition should be an open base model without instruction-tuning. Examples of licenses we'll accept are [MIT](https://spdx.org/licenses/MIT.html) or [Apache 2](https://www.apache.org/licenses/LICENSE-2.0)). We're also happy to discuss other licenses on a case by case basis, for example per community interest we'll accept the [LLAMA 2 community license agreement](https://github.com/facebookresearch/llama/blob/main/LICENSE) if you've requested and been approved for a [download link](https://ai.meta.com/resources/models-and-libraries/llama-downloads/). All sizes of the common autoregressive and autoencoder base models listed below are allowed. 
+The starting model for the competition should be an open base model without instruction-tuning. Examples of licenses we'll accept are [MIT](https://spdx.org/licenses/MIT.html), [Apache 2](https://www.apache.org/licenses/LICENSE-2.0)), [BigScience RAIL](https://bigscience.huggingface.co/blog/the-bigscience-rail-license). We're also happy to discuss other licenses on a case by case basis, for example per community interest we'll accept the [LLAMA 2 community license agreement](https://github.com/facebookresearch/llama/blob/main/LICENSE) if you've requested and been approved for a [download link](https://ai.meta.com/resources/models-and-libraries/llama-downloads/). All sizes of the common autoregressive and autoencoder base models listed below are allowed. 
 
 </p>
 
