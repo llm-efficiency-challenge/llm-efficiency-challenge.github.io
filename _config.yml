@@ -13,6 +13,7 @@ navigation:
   Timeline: "dates"
   Prizes: "prizes"
   Starter Kit: "starter_kit"
+  Submission: "submission"
   Leaderboard: "leaderboard"
   Organizers: "organizers"
   Advisors: "advisors"

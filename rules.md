@@ -7,7 +7,7 @@ layout: default
 The rules of this competition aim to ensure fair evaluation and reproducible results. To this end, we require the following:
 
 
-* <p style='text-align: justify;'>Submissions must be reproducible from initial model through fine tuning and inference. Winning models, along with all associated code and data, must be open-sourced and made public after the competition under the MIT or Apache 2 license.
+* <p style='text-align: justify;'>Submissions must be reproducible from initial model through fine tuning and inference. Winning models, along with all associated code and data, must be open-sourced and made public after the competition.
 * <p style='text-align: justify;'>Submissions must NOT use any copyrighted or proprietary data, code, or closed-source content. The use of data or content that breaks service contracts or trade secrets of any entity is not allowed.
 * <p style='text-align: justify;'>Teams are encouraged to use any open-source code and libraries, provided they give proper attribution.
 * <p style='text-align: justify;'>Submissions must take less than 24 hours to fine-tune on a single Nvidia A100 or Nvidia 4090 graphics card.
