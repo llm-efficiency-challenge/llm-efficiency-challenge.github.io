@@ -12,8 +12,8 @@ We will provide answers to some common questions here. Please join us on Discord
 **Size of A100?** <br>
 40GB version only. 
 
-**Context Size?** <br>
-2048 
+**What's the maximum prompt/completion lengths that we should expect the models to be able to handle?** <br>
+2048 tokens
 
 **Is it safe to assume that the evaluation is on English text?** <br>
 Yes. 
