@@ -21,7 +21,7 @@ navigation:
   # Invited Speakers: "speakers"
   # FAQ: "faq"
   Sponsors: "sponsors"
-  Contact Us: "question"
+  Q&A: "question"
 markdown: kramdown
 
 kramdown:

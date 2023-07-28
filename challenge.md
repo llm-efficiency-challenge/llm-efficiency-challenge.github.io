@@ -4,7 +4,7 @@ layout: default
 
 <p style='text-align: justify;'>
 
-To participate in this competition, you must start with a base model from our approved list, utilize only open-source data, and limit your fine-tuning to a single **24-hour** period. This fine-tuning should be carried out on just one graphics card, which must be either the **NVIDIA 4090** or the **NVIDIA A100**.
+To participate in this competition, you must start with a base model from our approved list, utilize only open-source data, and limit your fine-tuning to a single **24-hour** period. This fine-tuning should be carried out on just one graphics card, which must be either the **NVIDIA 4090** or the **NVIDIA A100 (40GB)**.
 Our competition will feature two hardware tracks: the **NVIDIA 4090 track**  and  the **NVIDIA A100 track**, and each track will be evaluated separately.
 
 </p>
