@@ -47,7 +47,7 @@ You are welcome to use any open sourced dataset. For example:
 
 * [Databricks-Dolly-15](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
 * [OpenAssistant Conversations Dataset (oasst1)](https://huggingface.co/datasets/OpenAssistant/oasst1)
-* [Alpaca Libre](https://github.com/mobarski/alpaca-libre)
+* [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2)
 
 <br>
 
