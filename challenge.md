@@ -52,7 +52,7 @@ You are welcome to use any open sourced dataset. For example:
 <br>
 
 <p style='text-align: justify;'>
-Under no circumstances should you use data that infringes upon data usage agreements, copyright laws, or privacy policies. This means you should not use datasets that utilize generated content, whether in the form of instructions/prompts or results/answers from another LLM. If you opt to create your own dataset, it must be open-sourced and readily accessible to the general public at the time of submission.
+Under no circumstances should you use data that infringes upon data usage agreements, copyright laws, or privacy policies. This means you should not use datasets that utilize generated content, whether in the form of instructions/prompts or results/answers from another LLM if that LLM did not have a permissive license that explicitly allowed you to do so. If you opt to create your own dataset, it must be open-sourced and readily accessible to the general public at the time of submission.
 </p>
 
 <br>
