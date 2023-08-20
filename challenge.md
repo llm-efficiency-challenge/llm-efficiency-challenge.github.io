@@ -48,6 +48,8 @@ You are welcome to use any open sourced dataset. For example:
 * [Databricks-Dolly-15](https://huggingface.co/datasets/databricks/databricks-dolly-15k)
 * [OpenAssistant Conversations Dataset (oasst1)](https://huggingface.co/datasets/OpenAssistant/oasst1)
 * [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2)
+* [AllenAI Dolma](https://huggingface.co/datasets/allenai/dolma)
+* [RedPajama-Data-1T](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T)
 
 <br>
 
