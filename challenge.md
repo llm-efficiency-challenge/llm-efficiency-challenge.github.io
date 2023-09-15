@@ -16,6 +16,7 @@ The starting model for the competition should be an open base model without inst
 
 </p>
 
+* DeciLM-6B
 * Falcon
 * LLaMA or Llama 2
 * OpenLLaMA
