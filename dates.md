@@ -11,7 +11,7 @@ layout: default
     </tr>
     <tr>
         <td width="50%"><b>Submission Deadline</b></td>
-        <td width="50%">October 15th, 2023</td>
+        <td width="50%">October 25th, 2023</td>
     </tr>
     <tr>
         <td width="50%"><b>Winners Notification</b></td>
