@@ -35,6 +35,7 @@ The starting model for the competition should be an open base model without inst
 * Electra
 * UL2
 * Cerebras (btlm, GPT)
+* DeciLM-6B
 
 
 If you plan to use an open-source base model family not listed here, please reach out to us and we will consider adding it to the list. Please respect the honor system in place for this competition, and acquire your base model through legitimate channels only. (i.e. No pirated LLaMA weights). Any submissions that use base models obtained through illicit means will be disqualified. 
