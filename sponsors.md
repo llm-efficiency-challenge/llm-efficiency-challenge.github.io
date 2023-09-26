@@ -1,4 +1,3 @@
----
 layout: default
 ---
 
@@ -11,6 +10,7 @@ layout: default
         <td style="border: none;"><img src="https://github.com/llm-efficiency-challenge/llm-efficiency-challenge.github.io/assets/3282513/15df0ad7-f14e-48b0-981c-edc6875f59cd" width="300"></td>
     </tr>
     <tr>
+                <td style="border: none;"><img src="https://github.com/llm-efficiency-challenge/llm-efficiency-challenge.github.io/assets/3282513/7185238e-b21c-4d82-91f3-86d3465523db)" width="300"></td>
         <td style="border: none;"><img src="https://github.com/llm-efficiency-challenge/llm-efficiency-challenge.github.io/assets/3282513/c227bd00-a396-49a5-928c-1d40482508a8" width="300"></td>
         <td style="border: none;"></td>
     </tr>
