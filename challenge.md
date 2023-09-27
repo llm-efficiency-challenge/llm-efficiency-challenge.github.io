@@ -75,7 +75,13 @@ Some concrete clarifications:
 
 <p style='text-align: justify;'>
 
-The evaluation process in our competition will be conducted in two stages. In the first stage, we will run a subset of HELM benchmark along with a set of secret holdout tasks. The holdout tasks will consist of logic reasoning type of multiple-choice Q&A scenarios as well as conversational chat tasks. Submissions will be ranked based on their performance across all tasks. The ranking will be determined by the geometric mean across all evaluation tasks. This score will be shown in the leaderboard 
+The evaluation process in our competition will be conducted in two stages. In the first stage, we will run a subset of HELM benchmark along with a set of secret holdout tasks. The holdout tasks will consist of logic reasoning type of multiple-choice Q&A scenarios as well as conversational chat tasks. Submissions will be ranked based on their performance across all tasks. The ranking will be determined by the geometric mean across all evaluation tasks. This score will be shown in the leaderboard.
+
+For the most up to date details on which specific HELM tasks we're evaluating on please parse the `.conf` files in our starter repo https://github.com/llm-efficiency-challenge/neurips_llm_efficiency_challenge.
+
+There are also some hardware constraints that we'll have in place for practical reasons simply because that's the hardware that the organizers have available
+* 128GB of RAM
+* 500GB of Disk
 
 <br><br>
 
@@ -83,6 +89,6 @@ $$\text{score} = \Pi ( \text{mean-win-rate(\text{task})} )$$
 
 <br><br>
 
-After the competition is closed on October 15th 2023, we will contact the top 3 teams with the highest scoring models in each hardware category, requesting that they submit all necessary code and data to reproduce their model, starting from their chosen open-source base model. We will then replicate their entire process, to ensure it is repeatable and same results can be achieved with 24 hours using a single GPU. If the top-scoring model cannot be reproduced under these imposed conditions, we will move on to consider the next highest-scoring model in the hardware category, we will continue this process until a reproducible and high-performing model is selected, or we exhaust all potential options and declare no winners for the category.
+After the competition is closed on October 25th 2023, we will contact the top 3 teams with the highest scoring models in each hardware category, requesting that they submit all necessary code and data to reproduce their model, starting from their chosen open-source base model. We will then replicate their entire process, to ensure it is repeatable and same results can be achieved with 24 hours using a single GPU. If the top-scoring model cannot be reproduced under these imposed conditions, we will move on to consider the next highest-scoring model in the hardware category, we will continue this process until a reproducible and high-performing model is selected, or we exhaust all potential options and declare no winners for the category.
 
 </p>
