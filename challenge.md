@@ -16,30 +16,31 @@ The starting model for the competition should be an open base model without inst
 
 </p>
 
-* Falcon
-* LLaMA or Llama 2
-* OpenLLaMA
-* Red Pajama Base (not instruction tuned models)
-* MPT
-* OPT
-* Bloom
-* GPT Neo, J, NeoX, Pythia
-* GPT2
-* T5 (not Flan-T5)
-* BART
-* DeBERTa
-* RoBERTa
-* BERT
 * ALBERT
+* BART
+* BERT
+* Bloom
+* Cerebras (btlm, GPT)
+* Colossal-LLaMA-2-7b-base
+* DeBERTa
+* DeciLM-6B
 * DistilBERT
 * Electra
-* UL2
-* Cerebras (btlm, GPT)
-* DeciLM-6B
-* qwen
-* internlm
-* Colossal-LLaMA-2-7b-base
+* Falcon
+* GPT2
+* GPT Neo, J, NeoX, Pythia
+* InternLM
+* LLaMA or Llama 2
 * Mistral
+* MPT
+* OpenLLaMA
+* OPT
+* Persimmon
+* Qwen
+* Red Pajama Base (not instruction tuned models)
+* RoBERTa
+* T5 (not Flan-T5)
+* UL2
 
 
 If you plan to use an open-source base model family not listed here, please reach out to us and we will consider adding it to the list. Please respect the honor system in place for this competition, and acquire your base model through legitimate channels only. (i.e. No pirated LLaMA weights). Any submissions that use base models obtained through illicit means will be disqualified. 
