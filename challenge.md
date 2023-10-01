@@ -80,7 +80,7 @@ Some concrete clarifications:
 
 The evaluation process in our competition will be conducted in two stages. In the first stage, we will run a subset of HELM benchmark along with a set of secret holdout tasks. The holdout tasks will consist of logic reasoning type of multiple-choice Q&A scenarios as well as conversational chat tasks. Submissions will be ranked based on their performance across all tasks. The ranking will be determined by the geometric mean across all evaluation tasks. This score will be shown in the leaderboard.
 
-For the most up to date details on which specific HELM tasks we're evaluating on please parse the `.conf` files in our starter repo https://github.com/llm-efficiency-challenge/neurips_llm_efficiency_challenge.
+For the most up-to-date details on which specific HELM tasks we're evaluating, please parse the `.conf` files in our starter repo https://github.com/llm-efficiency-challenge/neurips_llm_efficiency_challenge. Keep in mind that your submission needs to take at most 2 hours on the sample `.conf` files we've provided.
 
 There are also some hardware constraints that we'll have in place for practical reasons simply because that's the hardware that the organizers have available
 * 128GB of RAM
