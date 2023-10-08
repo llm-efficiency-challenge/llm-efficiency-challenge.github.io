@@ -61,9 +61,8 @@ You are welcome to use any open sourced dataset. For example:
 <br>
 
 <p style='text-align: justify;'>
-Under no circumstances should you use data that infringes upon data usage agreements, copyright laws, or privacy policies. This means you should not use datasets that utilize generated content, whether in the form of instructions/prompts or results/answers from another LLM if that LLM did not have a permissive license that explicitly allowed you to do so. If you opt to create your own dataset, it must be open-sourced and readily accessible to the general public at the time of submission.
-
-Some concrete clarifications: 
+Under no circumstances should you use data that infringes upon data usage agreements, copyright laws, or privacy policies. This means you should not use datasets that utilize generated content, whether in the form of instructions/prompts or results/answers from another LLM if that LLM did not have a permissive license that explicitly allowed you to do so. If you opt to create your own dataset, it must be open-sourced and readily accessible to the general public at the time of submission. Some concrete clarifications: 
+</p>
 
 
 * Any generated llm dataset must be generated from one of the approved base models
@@ -78,13 +77,7 @@ Some concrete clarifications:
 
 <p style='text-align: justify;'>
 
-The evaluation process in our competition will be conducted in two stages. In the first stage, we will run a subset of HELM benchmark along with a set of secret holdout tasks. The holdout tasks will consist of logic reasoning type of multiple-choice Q&A scenarios as well as conversational chat tasks. Submissions will be ranked based on their performance across all tasks. The ranking will be determined by the geometric mean across all evaluation tasks. This score will be shown in the leaderboard.
-
-For the most up-to-date details on which specific HELM tasks we're evaluating, please parse the `.conf` files in our starter repo https://github.com/llm-efficiency-challenge/neurips_llm_efficiency_challenge. Keep in mind that your submission needs to take at most 2 hours on the sample `.conf` files we've provided.
-
-There are also some hardware constraints that we'll have in place for practical reasons simply because that's the hardware that the organizers have available
-* 128GB of RAM
-* 500GB of Disk
+The evaluation process in our competition will be conducted in two stages. In the first stage, we will run a subset of HELM benchmark along with a set of secret holdout tasks. The holdout tasks will consist of logic reasoning type of multiple-choice Q&A scenarios as well as conversational chat tasks. Submissions will be ranked based on their performance across all tasks. The ranking will be determined by the geometric mean across all evaluation tasks. This score will be shown in the leaderboard. For the most up-to-date details on which specific HELM tasks we're evaluating, please parse the `.conf` files in our starter repo https://github.com/llm-efficiency-challenge/neurips_llm_efficiency_challenge. Keep in mind that your submission needs to take at most 2 hours on the sample `.conf` files we've provided. There are also some hardware constraints that we'll have in place for practical reasons simply because that's the hardware that the organizers have available 128GB of RAM and 500GB of Disk
 
 <br><br>
 
