@@ -14,7 +14,7 @@ layout: default
 
 <br />
 
-|<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=YfompPIAAAAJ&citpid=2" alt="Christian Puhrsch" width="250"/>|<img src="https://artidoro.github.io/images/Artidoro_Pagnoni.jpg" alt="Artidoro Pagnoni" width="250"/>|
-|[Christian Puhrsch](https://research.facebook.com/people/puhrsch-christian/)<br />Meta|[Artidoro Pagnoni](https://artidoro.github.io/)<br />University of Washington|
+|<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=YfompPIAAAAJ&citpid=2" alt="Christian Puhrsch" width="250"/>|<img src="https://artidoro.github.io/images/Artidoro_Pagnoni.jpg" alt="Artidoro Pagnoni" width="250"/>|<img src="https://static.wixstatic.com/media/e1158b_5e91318f97e24193b00ca5124b95ab02~mv2.jpeg/v1/fill/w_720,h_1080,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e1158b_5e91318f97e24193b00ca5124b95ab02~mv2.jpeg" alt="Supriya Rao" width="250"/>|
+|[Christian Puhrsch](https://research.facebook.com/people/puhrsch-christian/)<br />Meta|[Artidoro Pagnoni](https://artidoro.github.io/)<br />University of Washington|[Supriya Rao](https://www.linkedin.com/in/raosupriya/)<br />Meta|
 
 <br />
