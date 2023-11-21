@@ -8,8 +8,6 @@ Lead Organizers
 * Mark Saroufim
 * Weiwei Yang
 
-<br>
-
 Organizers
 * Luca Antiga
 * Driss Guessous
