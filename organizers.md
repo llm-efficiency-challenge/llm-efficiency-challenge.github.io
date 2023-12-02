@@ -4,11 +4,9 @@ layout: default
 
 # Organizers
 
-Lead Organizers
 * Mark Saroufim
 * Weiwei Yang
-
-Organizers
+* Joe Isaacson
 * Luca Antiga
 * Driss Guessous
 * Greg Bowyer
@@ -19,4 +17,3 @@ Organizers
 * Vicki Boykis
 * Aaron Gonzales
 * Davide Eynard
-* Joe Isaacson
