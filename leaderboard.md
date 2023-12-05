@@ -2,7 +2,29 @@
 layout: default
 ---
 
-# Leaderboard
+## Winners 🏆
+
+### A100 track
+1. Percent_bfd https://github.com/Percent-BFD/neurips_submission
+2. https://github.com/anmolagarwal999/Submission-NeurIPS-Large-Language-Model-Efficiency-Challenge-2023 
+3. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
+
+Student A100 track
+1. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
+2. NJUST-A!dge: https://github.com/hqbbzsp/nips_submission_A100
+
+### 4090 track
+1. Little Learners: https://github.com/akjindal53244/neurips-submission
+2. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
+3. Knovel: https://github.com/knovel-eng/neurips-llm-2023
+
+Student 4090 track
+1. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
+2. Knovel: https://github.com/knovel-eng/neurips-llm-2023
+
+
+
+## Discord Leaderboard
 On Discord 
 * [4090 Leaderboard](https://discord.com/channels/1124130156336922665/1151568318013132831)
 * [A100 Leaderboard](https://discord.com/channels/1124130156336922665/1151568359251509319)
