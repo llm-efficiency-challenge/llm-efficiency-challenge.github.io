@@ -14,7 +14,7 @@ Student A100 track
 2. NJUST-A!dge: https://github.com/hqbbzsp/nips_submission_A100
 
 ### 4090 track
-1. Little Learners: https://github.com/akjindal53244/neurips-submission
+1. Upaya: https://github.com/Upaya07/NeurIPS-llm-efficiency-challenge
 2. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
 3. Knovel: https://github.com/knovel-eng/neurips-llm-2023
 
