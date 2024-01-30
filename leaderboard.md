@@ -5,22 +5,22 @@ layout: default
 ## Winners 🏆
 
 ### A100 track
-1. Percent_bfd https://github.com/Percent-BFD/neurips_submission
-2. https://github.com/anmolagarwal999/Submission-NeurIPS-Large-Language-Model-Efficiency-Challenge-2023 
-3. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
+1. Percent_bfd: Ao Liu, Zizhen Huang, Jiabin Wang, Hao Lu, Qin Hu [Repo](https://github.com/Percent-BFD/neurips_submission)
+2. Tiered Model Ninja Team: Anmol Agarwal, Ajinkya Deshpande, Shashank Shet, Arun Iyer, Suresh Parthasarathy [Repo](https://github.com/anmolagarwal999/Submission-NeurIPS-Large-Language-Model-Efficiency-Challenge-2023) 
+3. ReaLLM Conquerors: Mrigank Raman, Kousik Rajesh, Rahul Saxena, Abishek Sridhar, Akanksha Sachan [Repo](https://github.com/MrigankRaman/LLM_Comp/)
 
 Student A100 track
-1. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
-2. NJUST-A!dge: https://github.com/hqbbzsp/nips_submission_A100
+1. ReaLLM Conquerors: Mrigank Raman, Kousik Rajesh, Rahul Saxena, Abishek Sridhar, Akanksha Sachan [Repo](https://github.com/MrigankRaman/LLM_Comp/)
+2. NJUST-A!dge: Shupeng Zhong, Yu Xia, Shifeng Yi, Qingguo Chen, Yang Yang [Repo](https://github.com/hqbbzsp/nips_submission_A100)
 
 ### 4090 track
-1. Upaya: https://github.com/Upaya07/NeurIPS-llm-efficiency-challenge
-2. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
-3. Knovel: https://github.com/knovel-eng/neurips-llm-2023
+1. Upaya: Ashvini Jindal, Ankur Parikh, Pawan Rajpoot [Repo](https://github.com/Upaya07/NeurIPS-llm-efficiency-challenge)
+2. ReaLLM Conquerors: Mrigank Raman, Kousik Rajesh, Rahul Saxena, Abishek Sridhar, Akanksha Sachan [Repo](https://github.com/MrigankRaman/LLM_Comp/)
+3. Knovel: Chris Ngo, Quy Anh Dang [Repo](https://github.com/knovel-eng/neurips-llm-2023)
 
 Student 4090 track
-1. ReaLLM Conquerors: https://github.com/MrigankRaman/LLM_Comp/
-2. Knovel: https://github.com/knovel-eng/neurips-llm-2023
+1. ReaLLM Conquerors: Mrigank Raman, Kousik Rajesh, Rahul Saxena, Abishek Sridhar, Akanksha Sachan [Repo](https://github.com/MrigankRaman/LLM_Comp/)
+2. Knovel: Chris Ngo, Quy Anh Dang [Repo](https://github.com/knovel-eng/neurips-llm-2023)
 
 
 
