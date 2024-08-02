@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<p style='text-align: justify;'>
-We've launched the 2024 version of this competition https://www.facebook.com/codingcompetitions/hacker-cup 
+We've launched the 2024 version of this competition: [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)
+
+<b>
+
 
 <p style='text-align: justify;'>
 Large Language Models (LLMs) trained on large corpora of texts have attracted significant attention in recent years with their ability to solve tasks with few supervised examples. These few-shot models have shown state-of-the-art success across NLP tasks (Entity Recognition), language translation, standardized exams (SAT, AP exams, Medical Knowledge), coding challenges (LeetCode), as well as in subjective domains such as chatbots. All of these domains involve bootstrapping a single LLM referred to as a foundation model with examples of specific knowledge from the associated task. The process of updating a model with limited domain-specific data is known as fine-tuning. However, the costs of accessing, fine-tuning and querying foundation models to perform new tasks are large. Given these costs, access to performant LLMs has been gated behind expensive and often proprietary hardware used to train models, making them inaccessible to those without substantial resources. </p>
