@@ -3,7 +3,7 @@ layout: default
 ---
 We've launched the 2024 version of this competition: [Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup)
 
-<b>
+<br>
 
 
 <p style='text-align: justify;'>
